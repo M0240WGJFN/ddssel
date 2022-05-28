@@ -1,0 +1,16 @@
+{
+  "name": "ddhrvssel",
+  "description": "Deddhrvssel on Heroku.",
+  "keywords": [
+    "ddhrvssel"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "a42e20ec-5c22-436d-8af1-b99784c793db"
+    }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+}
