@@ -1,8 +1,8 @@
 {
-  "name": "ddhrvssel",
-  "description": "Deddhrvssel on Heroku.",
+  "name": "ddssel",
+  "description": "Deddssel on Heroku.",
   "keywords": [
-    "ddhrvssel"
+    "ddssel"
   ],
   "env": {
     "UUID": {
