@@ -1,6 +1,6 @@
 # VLESS Heroku
 
-[![Deploy]](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FM0240WGJFN%2Fddhrvssel)
+[![Deploy]](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FM0240WGJFN%2Fddssel)
 
 
 addEventListener(  
